@@ -1,0 +1,16 @@
+.card-mode-btn:hover {
+  color: #2894ff;
+}
+
+.list-mode-btn:hover {
+  color: #2894ff;
+}
+/* mode按鈕點擊後樣式 */
+.pressed {
+  color: #2894ff;
+}
+/* 已收藏電影按鈕樣式 */
+.added-to-favorite {
+  color: white;
+  background-color: #ffb5b5;
+}
